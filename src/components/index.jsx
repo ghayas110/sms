@@ -4,4 +4,6 @@ import HeaderAdmin from "./HeaderAdmin";
 import FooterAdmin from "./FooterAdmin";
 import ShoeCard from "./ShoeCard";
 import Button from "./Button";
-export { Header, Footer, HeaderAdmin, FooterAdmin, Button, ShoeCard };
+import AboutSectionOne from "./AboutSectionOne";
+import AboutSectionTwo from "./AboutSectionTwo";
+export { Header, Footer, HeaderAdmin, FooterAdmin, Button, ShoeCard, AboutSectionOne, AboutSectionTwo };
