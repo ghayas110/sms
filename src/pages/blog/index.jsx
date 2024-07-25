@@ -1,6 +1,6 @@
 import { Breadcrumb, SectionTitle } from "@/Common";
 import SingleBlog from "./SingleBlog";
-import blogData from "./blogData";
+import { blogData } from "@/constant";
 
 const Blog = () => {
   return (
