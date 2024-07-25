@@ -11,11 +11,11 @@ const Video = () => {
   const [isOpen, setOpen] = useState(false);
 
   return (
-    <section className="relative z-10 py-16 md:py-20 lg:py-28">
+    <section className="relative py-16 px-10 md:py-20 lg:py-28 ">
       <div className="container">
         <SectionTitle
           title="We are ready to help"
-          paragraph="• Smart Pay, establishes a digital ecosystem between all potential digital market players through delivery of innovative and secure payment solutions."
+          paragraph="Smart Pay, establishes a digital ecosystem between all potential digital market players through delivery of innovative and secure payment solutions."
           center
           mb="80px"
         />
