@@ -1,7 +1,7 @@
 import React from "react";
 
 const SingleFeature = ({ feature }) => {
-  const { icon, title, paragraph } = feature;
+
   return (
     <div className="w-full">
       <div className="wow fadeInUp" data-wow-delay=".15s">
@@ -14,7 +14,7 @@ const SingleFeature = ({ feature }) => {
         <p className="pr-[10px] text-base font-medium leading-relaxed text-body-color">
           {feature?.paragraph}
         </p>
-        
+
       </div>
     </div>
   );
