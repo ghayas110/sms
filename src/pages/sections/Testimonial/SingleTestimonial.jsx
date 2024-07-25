@@ -25,6 +25,7 @@ const SingleTestimonial = ({ testimonial }) => {
               {testimonial?.name}
             </h3>
             <p className="text-sm text-body-color text-white">{testimonial?.designation}</p>
+            
           </div>
         </div>
       </div>
