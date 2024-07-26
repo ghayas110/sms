@@ -29,7 +29,7 @@ const NewsLatterBox = () => {
         <input
           type="submit"
           value="Subscribe"
-          className="mb-5 flex w-full cursor-pointer items-center justify-center rounded-sm bg-black dark:bg-white px-9 py-4 text-base font-medium text-white shadow-submit duration-300 hover:bg-primary/90 dark:shadow-submit-dark"
+          className="mb-5 flex w-full cursor-pointer items-center justify-center dark:text-black rounded-sm bg-black dark:bg-white px-9 py-4 text-base font-medium text-white shadow-submit duration-300 hover:bg-primary/90 dark:shadow-submit-dark"
         />
         <p className="text-center text-base leading-relaxed text-body-color dark:text-body-color-dark">
           No spam guaranteed, So please don’t send any spam mail.
