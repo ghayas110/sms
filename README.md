@@ -1,5 +1,5 @@
 
-# Learning Management System (LMS)
+# SMS website
 
 ![License](https://img.shields.io/github/license/yourusername/lms)
 ![Issues](https://img.shields.io/github/issues/yourusername/lms)
